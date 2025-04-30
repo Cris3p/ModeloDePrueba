@@ -1,0 +1,2 @@
+# ModeloDePrueba
+camelCase
